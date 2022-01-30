@@ -210,9 +210,9 @@ GOOD LUCK 😀
 
 let tip;
 
-let bill = 275;
+// let bill = 275;
 // let bill = 40;
-// let bill = 430;
+let bill = 430;
 
 tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
 
